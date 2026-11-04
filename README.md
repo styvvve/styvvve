@@ -13,3 +13,7 @@
 - **AlternanceRadar** : Tracks work-study offers so I don't have to.
 - **Credit Risk Analytics** : Credit default risk modeling on real loan data.
 - **Agent Reliability Lab** : Experiments on making LLM agents reliable.
+
+#### 🧰 Stack
+
+[![Stack](https://skillicons.dev/icons?i=swift,java,spring,ts,react,nextjs,express,py,c)](https://skillicons.dev)
